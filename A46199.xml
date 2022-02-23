@@ -1,0 +1,356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas we are informed, that several collectors of the several pole-monies lately raised in this kingdome for His Majesties service, have not as yet accompted into the receipt of His Majesties Exchequer, for the monies so received by them, the names of which collectors are as followeth ... by the Lord Lieutenant and Council, Ormonde.</title>
+            <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46199</idno>
+            <idno type="STC">Wing I963</idno>
+            <idno type="STC">ESTC R36956</idno>
+            <idno type="EEBO-CITATION">16163562</idno>
+            <idno type="OCLC">ocm 16163562</idno>
+            <idno type="VID">104947</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104947)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1595:65)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas we are informed, that several collectors of the several pole-monies lately raised in this kingdome for His Majesties service, have not as yet accompted into the receipt of His Majesties Exchequer, for the monies so received by them, the names of which collectors are as followeth ... by the Lord Lieutenant and Council, Ormonde.</title>
+                  <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crook ... and are to be sold by Samuel Dancer ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first 5 lines of text.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the Council-chamber in Dublin, the fourth day of August, 1662"--leaf [2]</note>
+                  <note>Broadside in [2] leaves.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tax collection --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104947:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>By the Lord Lieutenant and Council.</head>
+            <opener>
+               <salute>ORMOND,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS We are informed, That ſeveral Collectors of the ſe<g ref="char:EOLhyphen"/>veral Pole-monies lately raiſed in this Kingdome for His Majeſties ſervice, have not as yet accompted into the Receipt of His Majeſties Exchequer, for the Monies ſo received by them, the Names of which Collectors are as followeth, <hi>viz.</hi>
+            </p>
+            <list>
+               <head>For the ſingle Pole-Money.</head>
+               <item>
+                  <hi>Thomas Aſh</hi> for the County of <hi>Meath.</hi>
+               </item>
+               <item>Captain <hi>William Hartwel</hi> for the County of <hi>Clare.</hi>
+               </item>
+               <item>
+                  <hi>Francis Brent</hi> for the County of <hi>Mayo.</hi>
+               </item>
+               <item>
+                  <hi>Will. Smith</hi> for the County of <hi>Monaghan.</hi>
+               </item>
+               <item>
+                  <hi>Humphrey Evat</hi> for the County of <hi>Tyrone.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the firſt double Pole-Money.</head>
+               <item>
+                  <hi>Chriſtopher Oliver</hi> for the City and County of <hi>Cork.</hi>
+               </item>
+               <item>Sir <hi>Arthur Denny</hi> for the County of <hi>Kerry.</hi>
+               </item>
+               <item>Captain <hi>Thomas Cullen</hi> for the County of <hi>Clare.</hi>
+               </item>
+               <item>
+                  <hi>Henry Crofton</hi> for the County of <hi>Leytrim.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Crofton</hi> for the County of <hi>Sligoe.</hi>
+               </item>
+               <item>
+                  <hi>Owen Vaughan</hi> for the County of <hi>Mayo.</hi>
+               </item>
+               <item>
+                  <hi>Henry Waddington</hi> for the County of <hi>Galway.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Picken</hi> for the County of <hi>Fermanagh.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Chambers</hi> for the County of <hi>Armagh.</hi>
+               </item>
+               <item>
+                  <hi>John Niſebite</hi> for the County of <hi>Donegal.</hi>
+               </item>
+               <item>
+                  <hi>James Hamilton</hi> for the County of <hi>Downe.</hi>
+               </item>
+               <item>
+                  <hi>Humphrey Evat</hi> for the County of <hi>Tyrone.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the ſecond double Pole-Money.</head>
+               <item>
+                  <hi>Chriſtopher Watkins</hi> for the County of <hi>Wickloe.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Hart</hi> for the County of <hi>Wexford.</hi>
+               </item>
+               <item>
+                  <hi>John Clark</hi> for the County of <hi>Catherlagh.</hi>
+               </item>
+               <item>
+                  <hi>Henry Bren</hi> for the County of <hi>Kildare.</hi>
+               </item>
+               <item>
+                  <hi>James Wyer</hi> for the Kings County.</item>
+               <item>
+                  <hi>Gilbert Rawſon</hi> for the Queens County.</item>
+               <item>
+                  <hi>Thomas Aske</hi> for the County of <hi>Meath.</hi>
+               </item>
+               <item>
+                  <hi>Henry Townley</hi> for the County of <hi>Louth.</hi>
+               </item>
+               <item>Sir <hi>John Broddrick</hi> for the County of <hi>Cork.</hi>
+               </item>
+               <item>Sir <hi>Arthur Denny</hi> for the County of <hi>Kerry.</hi>
+               </item>
+               <item>Captain <hi>William Hibbart</hi> for the County of <hi>Tippe<g ref="char:EOLhyphen"/>rary,</hi> Paid to <hi>1</hi> ſhill. <hi>10</hi> 
+                  <abbr>d.</abbr> if Inſolvences of <hi>266</hi> lib. <hi>7</hi> ſhill. <hi>6</hi> 
+                  <abbr>d.</abbr> be allowed him.</item>
+               <item>
+                  <hi>Thomas Picken</hi> for the County of <hi>Fermanagh,</hi>
+               </item>
+               <item>
+                  <hi>Alexander Knox</hi> for the County of <hi>Donegal,</hi> paid the full, if inſolvencies be allowed.</item>
+               <item>
+                  <hi>John Wright</hi> for the City of <hi>Waterford.</hi>
+               </item>
+               <item>Captain <hi>Thomas Cullen</hi> for the County of <hi>Clare.</hi>
+               </item>
+               <item>
+                  <hi>Henry Waddington</hi> for the County of <hi>Galway.</hi>
+               </item>
+               <item>
+                  <hi>Henry Crofton</hi> for the County of <hi>Leytrim.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Crofton</hi> for the County of <hi>Sligoe.</hi>
+               </item>
+               <item>
+                  <hi>Owen Vaughan</hi> for the County of <hi>Mayo.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Chambers</hi> for the County of <hi>Armagh.</hi>
+               </item>
+               <item>
+                  <hi>James Hamilton</hi> for the County of <hi>Downe.</hi>
+               </item>
+               <item>
+                  <hi>Hugh Smith</hi> for the County of <hi>Antrim,</hi> paid the full according to an Abſtract, but for want of an Eſtreate could not accompt.</item>
+               <item>
+                  <hi>John Hintch</hi> for <hi>Carrigfergus.</hi>
+               </item>
+               <item>
+                  <hi>Humphrey Evat</hi> for the County of <hi>Tyrone.</hi>
+               </item>
+               <item>
+                  <hi>William Smith</hi> for the County of <hi>Monaghan.</hi>
+               </item>
+               <item>
+                  <hi>Paul Braſier</hi> for the County of <hi>Londonderry.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Perſons under-named have not diſcharged their Accompts of the ſecond Pole-Money.</head>
+               <item>County <hi>Tipperary, James Halſey</hi> 
+                  <abbr>Eſq</abbr> collector.</item>
+               <item>County <hi>Mayo, Francis Brent,</hi> collector.</item>
+               <item>County <hi>Downe, James Hamilton</hi> 
+                  <abbr>Eſq</abbr> collector.</item>
+               <item>Kings <hi>County, Richard Warberton,</hi> coll.</item>
+               <item>County <hi>Clare, William Hartwel</hi> 
+                  <abbr>Eſq</abbr> coll.</item>
+               <item>City <hi>Cork, Chriſtopher Oliver,</hi> coll.</item>
+               <item>County of <hi>Cork</hi> the ſame.</item>
+               <item>City of <hi>Lymerick, William Hartwel</hi> 
+                  <abbr>Eſq</abbr> coll.</item>
+               <item>County of <hi>Lymerick</hi> the ſame.</item>
+               <item>County of <hi>Donegal, John Mourſtian</hi> collector.</item>
+               <item>County of <hi>Kerry,</hi> Sir <hi>Arthur Denny</hi> collector.</item>
+               <item>County of <hi>Meath, Thomas Aſh</hi> 
+                  <abbr>Eſq</abbr> collector.</item>
+               <item>County of <hi>Galway, Henry Waddington</hi> collector.</item>
+            </list>
+            <list>
+               <head>The firſt double Pole in the Province of LEINSTER not accounted for by</head>
+               <item>County of <hi>Catherlagh, Abraham Highmore</hi> coll.</item>
+               <item>County of <hi>Louth, Henry Townſly</hi> collector.</item>
+            </list>
+            <pb facs="tcp:104947:2"/>
+            <p>And whereas the Commiſſioners of ſome Counties have not returned to His Majeſties Vice-Treaſurer and Receiver General, or His Deputy, the Extreats of the ſaid Pole-Monies, as they ought to have done: And whereas the perſons under-named, being by ſeveral Proclamations of the late Lords Iuſtices and Council, appointed Collectors of Quit-rents, due and payable to His Majeſty, have not as yet accompted into the Receipt of His Majeſties Exchequer, for the Monies ſo received by them: And whereas His Majeſties Service, as well in payment of His Army, maintained in this Kingdome, for the neceſſary defenſe thereof, as otherwiſe, is there<g ref="char:EOLhyphen"/>by much hindred, although thoſe perſons might be forthwith juſtly proceeded againſt, for the neglect of their Duties in thoſe Truſts committed to them; yet in Favour to them, We are pleaſed by this Proclamation to give them this pre-monition, hereby charging and commanding the ſaid ſeveral Collectors, and all other Collectors of thoſe Monies, who have not as yet ac<g ref="char:EOLhyphen"/>compted for their Receipts into the Receipt of His Majeſties Court of Exchequer, that they, and every of them, do at, or before, the laſt day of this Moneth of <hi>Auguſt,</hi> perfect their Accompts of thoſe their Receipts before <hi>Arthur</hi> Earl of <hi>Angleſey,</hi> His Majeſties Vice-Treaſurer, the Lord chief Baron of His Majeſties Court of Exchequer, and His Majeſties Auditor General, or failing therein, to appear perſonally before Vs at this Board to anſwer their neglects herein.</p>
+            <p>And We do alſo charge and command the Commiſſioners of every County, who have not as yet returned extreats of the ſaid Pole-monies to His Majeſties Vice-Treaſurer and Receiver Ge<g ref="char:EOLhyphen"/>neral, or His Deputy, that at, or before the Twentieth day of this Moneth of <hi>Auguſt,</hi> they do return the ſaid extreats to His Majeſties ſaid Vice-Treaſurer and General Receiver, or His Deputy: And of this Proclamation all perſons concerned are required to take notice at their perils.</p>
+            <list>
+               <head>The Names of Collectors of Quit-Rents, who have not Accompted, <hi>viz.</hi>
+               </head>
+               <item>
+                  <hi>Arthur Dillon</hi> for the County of <hi>Meath</hi> for one Year, ended at <hi>Eaſter, 1662.</hi>
+               </item>
+               <item>
+                  <hi>John Wakely</hi> for the <hi>Kings County</hi> for one Year, en<g ref="char:EOLhyphen"/>ded at <hi>Eaſter, 1662.</hi>
+               </item>
+               <item>
+                  <hi>John Gilbert</hi> for the <hi>Queens County</hi> for two Years, ended at <hi>Eaſter, 1662.</hi>
+               </item>
+               <item>
+                  <hi>Joſeph Wheeler</hi> for the County of <hi>Kilkenny</hi> for two Years, ended at <hi>Eaſter, 1662.</hi> two Years, ended at <hi>Eaſter, 1662.</hi>
+               </item>
+               <item>
+                  <hi>William Dutton</hi> for the County of <hi>Donegal</hi> for one Year, ended at <hi>Eaſter, 1661.</hi> and <hi>George Carey</hi> for the Year ended at <hi>Eaſter, 1662.</hi>
+               </item>
+               <item>
+                  <hi>George Stack</hi> for the County of <hi>Fermannagh</hi> for one Year, ended at <hi>Eaſter, 1662.</hi>
+               </item>
+               <item>
+                  <hi>Paul Braſier</hi> for the County of <hi>Londonderry</hi> for one</item>
+               <item>
+                  <hi>John Tench</hi> for the County of <hi>Wexford</hi> for one Year, ended <hi>Eaſter, 1662.</hi>
+               </item>
+               <item>
+                  <hi>William Toxteth</hi> for the County of <hi>Lowth</hi> for two Years, ended at <hi>Eaſter, 1662.</hi>
+               </item>
+               <item>Lord <hi>Caſtle Coote,</hi> and Lord <hi>Coloony</hi> for the Pro<g ref="char:EOLhyphen"/>vince of <hi>Connaght</hi> and County of <hi>Clare</hi> for one Year, ended at <hi>Eaſter, 1662.</hi>
+               </item>
+               <item>
+                  <hi>Francis Chambers</hi> for the County of <hi>Ardmagh</hi> for Year, ended at <hi>Eaſter, 1662.</hi>
+               </item>
+               <item>
+                  <hi>Carrol Bolton</hi> for the County of <hi>Downe</hi> for one Year, ended at <hi>Eaſter, 1662.</hi>
+               </item>
+               <item>
+                  <hi>Triſtram Carey</hi> for the County of <hi>Monaghan</hi> for one Year, ended at <hi>Eaſter, 1662.</hi>
+               </item>
+               <item>
+                  <hi>Humphrey Evat</hi> for the County of <hi>Tyrone</hi> for one Year, ended at <hi>Eaſter, 1662.</hi>
+               </item>
+            </list>
+            <closer>
+               <dateline>
+                  <hi>Given at the Council-Chamber in <hi>Dublin,</hi>
+                  </hi> 
+                  <date>
+                     <hi>the fourth Day of <hi>Auguſt,</hi> 1662.</hi>
+                  </date>
+               </dateline>
+               <signed>J. Armachanus, Mau. Euſtace, Canc. Ja. Dublin, Oſſory, Drogheda, Angleſey, Mount-Alexander, Falkland, Maſſereene, Hen. Tichborne, Tho. Pigot, R. Coote, Fra. Hamilton, J. Ware, J. Temple, Robert Forth, Theo. Jones, Mar. Trevor.</signed>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>John Crook,</hi> Printer to the Kings moſt excellent Majeſty; and are to be ſold by <hi>Samuel Dancer</hi> Book-ſeller, in <hi>Caſtle-ſtreet,</hi> 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
